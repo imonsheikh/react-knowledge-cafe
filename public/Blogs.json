@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Great Adventure",
+      "author": "John Doe",
+      "author_img": "https://example.com/johndoe.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": "2 hours",
+      "hashtags": ["adventure", "fiction", "journey"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Cooking Mastery",
+      "author": "Jane Smith",
+      "author_img": "https://example.com/janesmith.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time": "1.5 hours",
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Art of Coding",
+      "author": "Alex Johnson",
+      "author_img": "https://example.com/alexjohnson.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": "3 hours",
+      "hashtags": ["coding", "programming", "technology"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Fitness Revolution",
+      "author": "Emily Brown",
+      "author_img": "https://example.com/emilybrown.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": "1 hour",
+      "hashtags": ["fitness", "exercise", "health"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Mindfulness in Daily Life",
+      "author": "Michael Johnson",
+      "author_img": "https://example.com/michaeljohnson.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": "45 minutes",
+      "hashtags": ["mindfulness", "meditation", "selfcare"]
+    }
+  ]
+  
